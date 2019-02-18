@@ -4,6 +4,10 @@
         <apexClass>GCTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>GCTest2</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>

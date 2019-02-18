@@ -2,14 +2,14 @@
     [
         "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550467564407,
             "changeTime": 1550467564407,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550467564407,
             "changeTime": 1550467564407,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1550467905570,
-            "changeTime": 1550467905570,
-            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1550468129202,
+            "changeTime": 1550468129202,
+            "contentHash": "940ac701ddc0a39d5e6592823a72413b544d297d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550467564407,
             "changeTime": 1550467564407,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,61 +60,133 @@
     [
         "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1550467905604,
-            "changeTime": 1550467905604,
-            "contentHash": "7b69f8a0a2a64628e43b48c071097000d1e576f8",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1550468178283,
+            "changeTime": 1550468178283,
+            "contentHash": "9bea2cf7191afefb9686de5331b54cc0b1ebf36a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes\\GCTest.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes\\GCTest.cls",
             "isDirectory": false,
+            "size": 92,
+            "modifiedTime": 1550468129184,
+            "changeTime": 1550468129184,
+            "contentHash": "19963715c18a4c808fddc27faa9f146e94892150",
             "isMetadataFile": false,
-            "size": 66,
-            "modifiedTime": 1550467905603,
-            "changeTime": 1550467905603,
-            "contentHash": "e09654f92ac8bc994c2eef0fcdfcca3c8b015846",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes\\GCTest.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes\\GCTest.cls-meta.xml",
             "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1550468129177,
+            "changeTime": 1550468129177,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
             "isMetadataFile": true,
-            "size": 184,
-            "modifiedTime": 1550467905605,
-            "changeTime": 1550467905605,
-            "contentHash": "3a70877167233a5ceaba5734a52bc72a4d43d6cd",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hp\\sfdx_poc\\test_proj",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1550467581639,
-            "changeTime": 1550467581639,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1550481481148,
+            "changeTime": 1550481481148,
+            "contentHash": "8417aa67483ca8b60acab0e768400b3cbaaefb91",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1550468129170,
+            "changeTime": 1550468129170,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18808,
+            "modifiedTime": 1550481987807,
+            "changeTime": 1550481987807,
+            "contentHash": "11899a2cd2380810739ca9b8d1e5d0775dc1a06d"
+        }
+    ],
+    [
+        "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550468129170,
+            "changeTime": 1550468129170,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550468129210,
+            "changeTime": 1550468129210,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes\\GCTest2.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes\\GCTest2.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 99,
+            "modifiedTime": 1550481987738,
+            "changeTime": 1550481987738,
+            "contentHash": "710d7982eb394221ef6f578ad8cd4147338604b0"
+        }
+    ],
+    [
+        "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes\\GCTest2.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\hp\\sfdx_poc\\test_proj\\force-app\\main\\default\\classes\\GCTest2.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1550481987729,
+            "changeTime": 1550481987729,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
         }
     ]
 ]
